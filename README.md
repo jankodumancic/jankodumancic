@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @jankodumancic
+- 👋 Hi, I’m jankodumancic
 - 👀 I’m interested in math
 - 🌱 I’m currently learning history
